@@ -1,3 +1,3 @@
-# Testes _end-to-end_ com CCypress
+# Testes _end-to-end_ com Cypress
 
 TBD.
